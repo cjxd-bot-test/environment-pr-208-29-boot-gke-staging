@@ -11,6 +11,9 @@ dependencies:
 - name: bdd-sbhg-1587668917
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-sbrp-import-1587671272
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-spring-1587667788
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
